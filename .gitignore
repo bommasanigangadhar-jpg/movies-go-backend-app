@@ -1,0 +1,16 @@
+# Binaries, test files, and local configurations
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+coverage.*
+go.work
+.env
+
+# Editor/IDE
+.idea/
+.vscode/
+/postgres-data
